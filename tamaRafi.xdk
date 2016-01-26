@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "jsapp/template-pixijs-portrait/sample.zip",
       "projectGuid": "f9b0f1f3-8cbd-4425-9861-9caa63bbe444",
-      "lastModifiedDate": 1453397831087,
+      "lastModifiedDate": 1453645749732,
       "creationDate": 1453397828217
     },
     "sourceDirectory": "www",
@@ -113,7 +113,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "cordovaCLIVersion_": "5.1.1",
-        "crosswalkVersion_": "14",
+        "crosswalkVersion_": "15",
         "appVersion_": "0.0.1",
         "appDescription_": "Use this template to start with a blank portrait Game from Pixi.js",
         "appAuthor_": "Intel XDK",
